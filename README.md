@@ -7,3 +7,5 @@
 <br>
 
 Resources documentation can be found [here](./lib/resources_doc.md).
+
+Commands list can be found [here](https://xalpha-infinityx.github.io/fivem-commands/index.html).
