@@ -2,9 +2,35 @@
 
 ## Gameplay
 
+### FivePD
+
+[Link](https://fivem-mods.net/fivepd/)
+
+FivePD adds a gamemode allowing players to immerse themselves in the world of law enforcement by roleplaying as a police officer. It draws inspiration from the popular single-player mod [LSPDFR](https://www.lcpdfr.com/lspdfr/index/).
+
+With FivePD:
+- You can conduct traffic stops
+- Apprehend suspects
+- Respond to 911 emergencies
+- And much more
+
+Additional plugins for FivePD can be found [here](https://github.com/topics/fivepd).
+
 ## Car Scripts
 
+### Luxart Vehicle Control
+
+### bmwg20uELS
+
+[Link](https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/46162-unmarked-2020-bmw-3-series-g20-nonelselsfivem/)
+
 ## User Interface (UI)
+
+### SimpleHUD
+
+### RageUI
+
+### vMenu
 
 ## Development
 
