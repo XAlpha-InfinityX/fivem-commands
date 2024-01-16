@@ -42,6 +42,12 @@ Note: ELS vehicles DO NOT work with LVC.
 
 A generic and fictional 2020 BMW 3 series G20 configured for FiveM.
 
+### camaroBB
+
+[Link](https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/26066-non-els-2018-camaro-zl1-rb-bb-fivem-ready/)
+
+A 2018 Camaro ZL1 using blue police lights.
+
 ## User Interface (UI)
 
 ### SimpleHUD
@@ -78,6 +84,24 @@ Features include:
 - Vehicle options, including saving cars
 - Miscellaneous features and settings including developer tools
 - Full permissions and configuration support
+
+### EUP
+
+[Link](https://forum.cfx.re/t/release-eup-for-fivem-server-sided/139848)
+
+EUP is an all in one clothing stream pack that contains a lot of emergency uniforms. it also comes with a menu so you can choose out of the big variety of pre-made uniforms. In order to integrate EUP to our server, we use the following resources:
+
+#### eup-stream
+
+This converts the original EUP (emergency uniforms pack) that was popular in LSPDFR to a server-side one compatible with FiveM.
+
+#### eup-ui-main
+
+[Link](https://github.com/WirzRexTon/eup-ui)
+
+This resource is a UI menu for EUP. It was based on the original eup-ui, which used NativeUI instead of RageUI. RageUI has performance increases over NativeUI, which is why this version was converted to RageUI.
+
+#### 
 
 ## Development
 
