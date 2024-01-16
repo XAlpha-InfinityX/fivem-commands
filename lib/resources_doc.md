@@ -1,3 +1,5 @@
+Resources are a collection of files that can be started, stopped, and restarted at any time. These files include client scripts, server scripts, and streaming assets.
+
 # Add-On Resources
 
 ## Gameplay
@@ -86,21 +88,37 @@ Features include:
 
 oxmysql allows FiveM resource communication with a MySQL database using [node-mysql12](https://github.com/sidorares/node-mysql2). It works with both Lua and JavaScript, and allows using SQL-like queries to store and retrieve data from a database.
 
-# Default Resources
+# Default FiveM Resources
+
+Some documentation can be found [here](https://docs.fivem.net/docs/resources/).
 
 ### mapmanager
 
+Handles map changes, game types, and compatability between gametypes.
+
 ### chat
+
+Provides custom chat functionality for FiveM using a NUI-based interface.
 
 ### spawnmanager
 
+Base resource handling the spawning of the player. Allows you to choose when, where to, and control how they respawn.
+
 ### sessionmanager
+
+Resource for handling "host lock" for non-OneSync servers.
 
 ### basic-gamemode
 
+A basi freeroam gametype that uses default spawn logic from spawnmanager.
+
 ### hardcap
 
+Limits the number of players to the amount set by sv_maxclients in your server.cfg.
+
 ### rconlog
+
+Handles old-style server player management commands.
 
 # Personal Resources
 
@@ -118,3 +136,7 @@ Our server uses a MySQL-forked database called MariaDB.
 
 As mentioned above, our server also connects to a SQLite database separate from MariaDB in order to smoothly integrate the FivePD resource.
 - SQLite is a small, fast, self-contained SQL database engine which requires zero-configuration and runs serverless. It's useful as an embedded database that may ship with a desktop application that only needs a simple abstraction around a file.
+
+### Scripting
+
+Documentation for how to create scripts/resources can be found in the [FiveM docs](https://docs.fivem.net/docs/).
