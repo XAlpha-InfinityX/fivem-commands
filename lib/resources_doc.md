@@ -1,4 +1,4 @@
-Resources are a collection of files that can be started, stopped, and restarted at any time. These files include client scripts, server scripts, and streaming assets.
+### Resources are a collection of files that can be started, stopped, and restarted at any time. These files include client scripts, server scripts, and streaming assets.
 
 # Add-On Resources
 
