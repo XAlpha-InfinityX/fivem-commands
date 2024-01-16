@@ -81,6 +81,11 @@ Features include:
 
 ### oxmysql
 
+[Link](https://overextended.dev/oxmysql)
+[Github](https://github.com/overextended/oxmysql)
+
+oxmysql allows FiveM resource communication with a MySQL database using [node-mysql12](https://github.com/sidorares/node-mysql2). It works with both Lua and JavaScript, and allows using SQL-like queries to store and retrieve data from a database.
+
 # Default Resources
 
 ### mapmanager
