@@ -2,7 +2,7 @@
 
 ### Static site hosting FiveM server commands for Fun With Friends
 
-#### **(Note: This is a private server that is not taking additional applications.)**
+#### ❗❗ **(Note: This is a private server that is not taking additional applicants.)**
 
 ---
 

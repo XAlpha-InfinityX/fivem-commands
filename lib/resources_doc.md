@@ -20,17 +20,62 @@ Additional plugins for FivePD can be found [here](https://github.com/topics/five
 
 ### Luxart Vehicle Control
 
+[Link](https://docs.luxartengineering.com/)
+[Github](https://github.com/TrevorBarns/luxart-vehicle-control)
+
+Luxart Vehicle Control v3 is a police vehicle lighting system similar to ELS modeled after real siren controllers.
+
+It includes:
+- Small togglable HUD modeled after a real siren controller
+- Siren assignments for cars so that different departments may have different siren setups
+- ELS style hotkeys utilizing numrow
+- Adjustable primary/secondary and auxiliary tones
+- And more
+
+Note: ELS vehicles DO NOT work with LVC.
+
 ### bmwg20uELS
 
 [Link](https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/46162-unmarked-2020-bmw-3-series-g20-nonelselsfivem/)
+
+A generic and fictional 2020 BMW 3 series G20 configured for FiveM.
 
 ## User Interface (UI)
 
 ### SimpleHUD
 
+[Link](https://forum.cfx.re/t/updated-simplehud-dojrp-based-location-display-hud/4775936)
+[Github](https://github.com/Andyyy7666/SimpleHUD)
+
+A simple HUD featuring:
+- Player location display
+- Time display
+- Speedometer
+- AOP display
+- Priority status
+- Money display (you can add money from any framework if you know how)
+- Fuel display (turns blue for electric vehicles)
+
 ### RageUI
 
+[Link](https://forum.cfx.re/t/canceled-lua-rageui/931651)
+[Github](https://github.com/ImBaphomettt/RageUI)
+
+RageUI is a library giving developers the ability to create menus similar to the one of GTA Online. It is required for many other menu-based resources, such as vMenu.
+
 ### vMenu
+
+[Link](https://docs.vespura.com/vmenu)
+[Github](https://github.com/TomGrobbe/vMenu)
+
+vMenu is a custom server-side trainer/menu. It gives server owners full permissions support.
+
+Features include:
+- Player options like god mode, heal, wanted level, etc.
+- Advanced multiplayer character customization, saving, and spawning
+- Vehicle options, including saving cars
+- Miscellaneous features and settings including developer tools
+- Full permissions and configuration support
 
 ## Development
 
