@@ -71,6 +71,13 @@ A simple HUD featuring:
 
 RageUI is a library giving developers the ability to create menus similar to the one of GTA Online. It is required for many other menu-based resources, such as vMenu.
 
+### NativeUI (In Lua)
+
+[Link](https://forum.cfx.re/t/release-dev-nativeuilua/98318)
+[Github](https://github.com/FrazzIe/NativeUILua)
+
+This resource converts NativeUI to Lua. NativeUI itself is a ScriptHookDotNet based library that helps you quickly and easily build Rockstar-like menus. This is required for other menu-based resources, such as EUP.
+
 ### vMenu
 
 [Link](https://docs.vespura.com/vmenu)
@@ -95,7 +102,7 @@ EUP is an all in one clothing stream pack that contains a lot of emergency unifo
 
 This converts the original EUP (emergency uniforms pack) that was popular in LSPDFR to a server-side one compatible with FiveM.
 
-#### eup-ui-main
+#### eup-ui
 
 [Link](https://github.com/WirzRexTon/eup-ui)
 
@@ -109,6 +116,18 @@ This resource is a UI menu for EUP. It was based on the original eup-ui, which u
 A server-side resource that allows the ability to stream customized visuals to clients using a `visualsettings.dat` file. This file is commonly downloaded client-side for better lighting, but this resource allows the server to send it to all clients.
 
 Note: If lighting looks off in any area, it may be due to the `visualsettings.dat` settings and may need to be updated.
+
+### mythic_notify
+
+[Github](https://github.com/JayMontana36/mythic_notify)
+
+A simple notification system inspired by NoPixel's allowing developers to create notifications that show inform, error, and success styles.
+
+### AIBackup
+
+[Github](https://github.com/AxNaash/AIBackup-FiveM-FivePD-)
+
+Adds AI Backup functionality for FivePD.
 
 ## Development
 
