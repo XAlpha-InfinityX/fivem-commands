@@ -36,11 +36,11 @@ It includes:
 
 Note: ELS vehicles DO NOT work with LVC.
 
-### bmwg20uELS
+### M235inonels
 
-[Link](https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/46162-unmarked-2020-bmw-3-series-g20-nonelselsfivem/)
+[Link](https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/46164-2021-bmw-m235i-unmarked-add-onreplace-fivem-ready-els-non-els/)
 
-A generic and fictional 2020 BMW 3 series G20 configured for FiveM.
+A 2021 BMW M235i unmarked police vehicle.
 
 ### camaroBB
 
@@ -101,7 +101,14 @@ This converts the original EUP (emergency uniforms pack) that was popular in LSP
 
 This resource is a UI menu for EUP. It was based on the original eup-ui, which used NativeUI instead of RageUI. RageUI has performance increases over NativeUI, which is why this version was converted to RageUI.
 
-#### 
+### visualSettings
+
+[Link](https://forum.cfx.re/t/release-serverside-visualsettings-stream-custom-visualsettings-dat/201448)
+[Github](https://github.com/Jarrrk/FiveM-VisualSettings)
+
+A server-side resource that allows the ability to stream customized visuals to clients using a `visualsettings.dat` file. This file is commonly downloaded client-side for better lighting, but this resource allows the server to send it to all clients.
+
+Note: If lighting looks off in any area, it may be due to the `visualsettings.dat` settings and may need to be updated.
 
 ## Development
 
