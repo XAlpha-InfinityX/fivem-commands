@@ -18,6 +18,66 @@ With FivePD:
 
 Additional plugins for FivePD can be found [here](https://github.com/topics/fivepd).
 
+#### VehicleIncidents (FivePD callout)
+
+[Github](https://github.com/Cannonb4ll/VehicleCollisions)
+
+Adds vehicle collision callouts to FivePD.
+
+#### CalloutPack (FivePD callout)
+
+[Github](https://github.com/HuskyNinjaDevelopment/CalloutPack)
+
+Adds 12 various callouts to FivePD.
+
+#### AnimalCruelty (FivePD callout)
+
+[Github](https://github.com/Cannonb4ll/AnimalCruelty)
+
+Adds a animal cruelty callout to FivePD.
+
+#### HomelessDisturbance (FivePD callout)
+
+[Github](https://github.com/Cannonb4ll/HomelessDisturbance)
+
+Adds a homeless disturbance callout to FivePD.
+
+#### ArmoredTruckRobbery (FivePD callout)
+
+[Github](https://github.com/HuskyNinjaDevelopment/ArmoredTruckRobbery)
+
+Adds a armored truck robber callout to FivePD.
+
+#### PortableMDT (FivePD plugin)
+
+[Github](https://github.com/HuskyNinjaDevelopment/PortableMDT)
+
+Allows players to use the FivePD MDT while in the field.
+
+#### ExamineBody (FivePD plugin)
+
+[Github](https://github.com/HuskyNinjaDevelopment/ExamineBody)
+
+When on duty and a couple feet from a dead body, a prompt will appear on screen prompting to examine the body further.
+
+#### LocalsItemPack (FivePD mod)
+
+[Github](https://github.com/SenkaWolf/FivePD_Locals-Item-Pack)
+
+An item modification which adds more items that can be found when searching a local or their vehicle.
+
+#### PenalCodePack (FivePD mod)
+
+[Github](https://github.com/SenkaWolf/FivePD_Penal-Code-Pack)
+
+A citation and charges modification which adds better categorisation and more selectable options.
+
+#### TrafficStopCallout/TrafficStopPlugin (FivePD callout/plugin)
+
+[Github](https://github.com/HuskyNinjaDevelopment/TrafficStop-Callout)
+
+Allows players to get a callout when they initiate a traffic stop.
+
 ## Car Scripts
 
 ### Luxart Vehicle Control
