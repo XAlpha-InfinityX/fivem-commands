@@ -78,6 +78,21 @@ A citation and charges modification which adds better categorisation and more se
 
 Allows players to get a callout when they initiate a traffic stop.
 
+### pvp
+
+[Link](https://forum.cfx.re/t/release-scammers-script-collection-09-03-17/3313)
+[Google Drive](https://drive.google.com/file/d/0B7pPkNZZXKksVU9Xc1I5Q2F5eTA/view?resourcekey=0-GHv99rr5J-DI4TtdBgeLcw)
+
+Enables player vs. player combat for FiveM.
+
+### AIBackup
+
+[Github](https://github.com/AxNaash/AIBackup-FiveM-FivePD-)
+
+Adds AI Backup functionality for FivePD.
+
+Note: This requires mythic_notify.
+
 ## Car Scripts
 
 ### Luxart Vehicle Control
@@ -183,11 +198,12 @@ Note: If lighting looks off in any area, it may be due to the `visualsettings.da
 
 A simple notification system inspired by NoPixel's allowing developers to create notifications that show inform, error, and success styles.
 
-### AIBackup
+### playerblips
 
-[Github](https://github.com/AxNaash/AIBackup-FiveM-FivePD-)
+[Link](https://forum.cfx.re/t/release-scammers-script-collection-09-03-17/3313)
+[Google Drive](https://drive.google.com/file/d/0B7pPkNZZXKksUlltSnA1RmREcDQ/view?resourcekey=0-rOVjQmQxwE4VkKm4dxr1dw)
 
-Adds AI Backup functionality for FivePD.
+This displays player blips in the map and names above the player similar to GTA:O. You can also extend the minimap using z/y.
 
 ## Development
 
