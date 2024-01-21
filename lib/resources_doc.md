@@ -93,6 +93,13 @@ Adds AI Backup functionality for FivePD.
 
 Note: This requires mythic_notify.
 
+### FRFuel
+
+[Link](https://forum.cfx.re/t/release-frfuel-v1-7-0/5467)
+[Github](https://github.com/thers/FRFuel)
+
+FRFuel is a simple fuel system for all on-ground vehicles designed to be as unobtrusive as possible.
+
 ## Car Scripts
 
 ### Luxart Vehicle Control
@@ -204,6 +211,10 @@ A simple notification system inspired by NoPixel's allowing developers to create
 [Google Drive](https://drive.google.com/file/d/0B7pPkNZZXKksUlltSnA1RmREcDQ/view?resourcekey=0-rOVjQmQxwE4VkKm4dxr1dw)
 
 This displays player blips in the map and names above the player similar to GTA:O. You can also extend the minimap using z/y.
+
+## Enhancements
+
+### (weapons pack TBD)
 
 ## Development
 
